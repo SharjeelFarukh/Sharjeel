@@ -1,0 +1,19 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Single-Page Application redirect rules. 
+# Ensures all user path requests (e.g., refreshes on custom slugs) rewrite to index.html for React to handle.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Set up custom security headers for high-performance compliance
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "no-referrer"

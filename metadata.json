@@ -1,0 +1,6 @@
+{
+  "name": "Medical Clinic Website",
+  "description": "A professional, responsive website for Dr. Muhammad Sharjeel Farkh's Heart & Wellness Clinic, featuring doctor biography, medical services, testmonials, location, FAQs, and a robust appointment booking form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
