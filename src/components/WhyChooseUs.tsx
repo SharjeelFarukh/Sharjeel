@@ -42,7 +42,7 @@ export default function WhyChooseUs() {
           </div>
           <div className="lg:col-span-4 text-center lg:text-right">
             <p className="text-slate-500 text-sm font-semibold max-w-sm mx-auto lg:mr-0">
-              Dr. Sharjeel's private clinic blends therapeutic environments with state-of-the-art diagnostics, supporting your heart's long-term health safely.
+              Dr. Vance's private clinic blends therapeutic environments with state-of-the-art diagnostics, supporting your heart's long-term health safely.
             </p>
           </div>
         </div>
@@ -87,7 +87,7 @@ export default function WhyChooseUs() {
               Your First Visit? We've Got You Covered
             </h4>
             <p className="text-slate-500 text-xs font-semibold">
-              Get familiar with Dr. Sharjeel's calm treatment philosophy. No stress, no high-pressure jargon.
+              Get familiar with Dr. Vance's calm treatment philosophy. No stress, no high-pressure jargon.
             </p>
           </div>
           <a

@@ -186,7 +186,7 @@ export default function TimingsAndLocation() {
                   </div>
                   {/* Tooltip */}
                   <div className="mt-1.5 bg-slate-900 border border-slate-800 text-white text-[10px] font-bold px-2 py-1 rounded-md shadow-md shadow-slate-950/20 leading-none whitespace-nowrap">
-                    Sharjeel Heart Clinic (Suite 1800)
+                    Vance Heart Clinic (Suite 1800)
                   </div>
                 </div>
 

@@ -90,7 +90,7 @@ export default function NavBar({ onBookClick }: NavBarProps) {
                 {DOCTOR_DETAILS.clinicName}
               </span>
               <span className="text-[9px] text-slate-400 font-bold tracking-widest uppercase">
-                {DOCTOR_DETAILS.specialization} &bull; Dr. Sharjeel
+                {DOCTOR_DETAILS.specialization} &bull; Dr. Vance
               </span>
             </div>
           </a>

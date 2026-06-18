@@ -47,7 +47,7 @@ export default function About() {
           </h2>
           <div className="mx-auto w-16 h-1 bg-gradient-to-r from-teal-500 to-cyan-500 rounded-full"></div>
           <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
-            A leader in preventative care with over 14 years of dedicated medical experience. Dr. Sharjeel takes an immersive, non-jargon approach, aligning cutting-edge science with gentle clinical care.
+            A leader in preventative care with over 14 years of dedicated medical experience. Dr. Vance takes an immersive, non-jargon approach, aligning cutting-edge science with gentle clinical care.
           </p>
         </div>
 
@@ -61,10 +61,10 @@ export default function About() {
                 Dedicated to Patient Health & Clinical Excellence
               </h3>
               <p className="text-slate-600 leading-relaxed text-sm sm:text-base">
-                Dr. Muhammad Sharjeel Farkh is an esteemed cardiologist and general practitioner. After completing his medical degree and specializing in cardiology at leading institutions, he established his clinic to bridge the gap between complex disease management and daily practical wellness.
+                Dr. Evelyn Vance is an esteemed cardiologist and general practitioner based in San Francisco. After completing her medical degree at Harvard and specializing in cardiology at Johns Hopkins, she established her clinic to bridge the gap between complex disease management and daily practical wellness.
               </p>
               <p className="text-slate-600 leading-relaxed text-sm sm:text-base">
-                With {DOCTOR_DETAILS.experience}, his patient-centered philosophy revolves around listening before prescribing. He believes patients deserve the time to explore their health factors, understand diagnosis pathways thoroughly, and play an active, confident role in physical rehabilitation.
+                With {DOCTOR_DETAILS.experience}, her patient-centered philosophy revolves around listening before prescribing. She believes patients deserve the time to explore their health factors, understand diagnosis pathways thoroughly, and play an active, confident role in physical rehabilitation.
               </p>
             </div>
 
@@ -124,7 +124,7 @@ export default function About() {
               {/* Safe medical disclaimer note style */}
               <div className="pt-4 border-t border-slate-200/80 flex items-start space-x-2 text-[11px] text-slate-400">
                 <ShieldCheck className="h-4 w-4 text-emerald-600 shrink-0 mt-0.5" />
-                <span>Dr. Sharjeel maintains active, unblemished medical licensure and is highly regarded in national cardiology societies.</span>
+                <span>Dr. Vance maintains active, unblemished licensure with the Medical Board of California and is highly regarded in national cardiology societies.</span>
               </div>
 
             </div>

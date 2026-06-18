@@ -20,7 +20,7 @@ export default function Contact() {
             <span>Connect With Us</span>
           </div>
           <h2 className="text-3xl sm:text-4xl font-display font-black text-slate-900 tracking-tight">
-            Contact Dr. Sharjeel's Team
+            Contact Dr. Vance's Team
           </h2>
           <div className="mx-auto w-16 h-1 bg-gradient-to-r from-teal-500 to-cyan-500 rounded-full"></div>
           <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
@@ -145,7 +145,7 @@ export default function Contact() {
 
             <div className="pt-8 relative z-10">
               <a
-                href={`https://wa.me/${DOCTOR_DETAILS.whatsapp}?text=${encodeURIComponent("Hello Dr. Sharjeel clinic, I would like to schedule an appointment consultation.")}`}
+                href={`https://wa.me/${DOCTOR_DETAILS.whatsapp}?text=${encodeURIComponent("Hello Dr. Vance clinic, I would like to schedule an appointment consultation.")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center space-x-2 w-full bg-emerald-650 hover:bg-emerald-700 text-white font-bold py-3.5 rounded-xl transition-all shadow-lg shadow-emerald-900/20 text-sm group cursor-pointer"

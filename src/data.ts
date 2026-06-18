@@ -1,17 +1,17 @@
 import { Service, Testimonial, FAQ, ClinicTiming } from './types';
 
 export const DOCTOR_DETAILS = {
-  fullName: "Dr. Muhammad Sharjeel Farkh",
-  titleName: "Dr. Muhammad Sharjeel Farkh, MD, FACC",
+  fullName: "Dr. Evelyn Vance",
+  titleName: "Dr. Evelyn Vance, MD, FACC",
   specialization: "Cardiologist & General Physician",
   tagline: "Compassionate, clinical excellence for your heart and lifelong wellbeing.",
   qualification: "MD, Harvard Medical School; Fellowship in Cardiology, Johns Hopkins Hospital",
   experience: "14+ Years of Expert Practice",
-  clinicName: "Sharjeel Heart & Wellness Clinic",
+  clinicName: "Vance Heart & Wellness Clinic",
   address: "450 Sutter Street, Suite 1800, San Francisco, CA 94108",
   phone: "+92 335 7654162",
   whatsapp: "923357654162",
-  email: "contact@sharjeelclinic.com",
+  email: "contact@vanceclinic.com",
 };
 
 export const CLINIC_TIMINGS: { MonFri: ClinicTiming; Sat: ClinicTiming; Sun: ClinicTiming } = {
@@ -119,7 +119,7 @@ export const TESTIMONIALS: Testimonial[] = [
     name: "Sarah Jenkins",
     role: "Patient since 2023",
     rating: 5,
-    comment: "Dr. Sharjeel is exceptionally professional and caring. He took the time to answer all my questions about my heart condition. I never felt rushed, and the clinic staff is wonderful.",
+    comment: "Dr. Vance is exceptionally professional and caring. She took the time to answer all my questions about my heart condition. I never felt rushed, and the clinic staff is wonderful.",
     date: "May 2026"
   },
   {
@@ -127,7 +127,7 @@ export const TESTIMONIALS: Testimonial[] = [
     name: "Michael Thornton",
     role: "Patient since 2021",
     rating: 5,
-    comment: "I've been visiting Sharjeel Clinic for my blood pressure management. The care is exceptionally personal, and Dr. Sharjeel's guidance on lifestyle changes helped me reduce my medication safely. Highly recommend!",
+    comment: "I've been visiting Vance Clinic for my blood pressure management. The care is exceptionally personal, and Dr. Vance's guidance on lifestyle changes helped me reduce my medication safely. Highly recommend!",
     date: "April 2026"
   },
   {
@@ -177,7 +177,7 @@ export const WHY_CHOOSE_US = [
   {
     id: "wc1",
     title: "Experienced Doctor",
-    description: "Dr. Sharjeel brings over 14 years of clinical practice in cardiology and primary care from world-renowned medical hospitals."
+    description: "Dr. Vance brings over 14 years of clinical practice in cardiology and primary care from world-renowned medical hospitals."
   },
   {
     id: "wc2",
@@ -202,6 +202,6 @@ export const WHY_CHOOSE_US = [
   {
     id: "wc6",
     title: "Friendly & Empathetic Environment",
-    description: "From our dedicated front-desk staff to Dr. Sharjeel himself, our entire clinic team approaches your care with kindness."
+    description: "From our dedicated front-desk staff to Dr. Vance herself, our entire clinic team approaches your care with kindness."
   }
 ];

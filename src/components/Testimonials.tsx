@@ -39,7 +39,7 @@ export default function Testimonials() {
           </h2>
           <div className="mx-auto w-16 h-1 bg-gradient-to-r from-teal-500 to-cyan-500 rounded-full"></div>
           <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
-            Read positive feedback from individuals whom Dr. Sharjeel has guided on their path to cardiorespiratory health. These testimonials reflect realistic, everyday healthcare outcomes.
+            Read positive feedback from individuals whom Dr. Vance has guided on their path to cardiorespiratory health. These testimonials reflect realistic, everyday healthcare outcomes.
           </p>
         </div>
 
@@ -96,7 +96,7 @@ export default function Testimonials() {
         {/* Top-tier Featured Patient Quote aligned with the Sleek Interface theme */}
         <div className="mt-16 max-w-2xl mx-auto bg-teal-50/70 p-5 sm:p-6 rounded-2xl border border-teal-100/80 flex flex-col justify-center items-center">
           <p className="italic text-xs sm:text-sm text-teal-850 text-center mb-2 leading-relaxed font-semibold">
-            "Dr. Sharjeel is exceptionally professional and deeply caring. He took the time to explain my complex cardiovascular condition in simple, practical terms without typical medical jargon."
+            "Dr. Vance is exceptionally professional and deeply caring. She took the time to explain my complex cardiovascular condition in simple, practical terms without typical medical jargon."
           </p>
           <p className="text-[10px] font-bold text-teal-600 text-center uppercase tracking-wider">
             &mdash; Sarah M., Cardiology Patient

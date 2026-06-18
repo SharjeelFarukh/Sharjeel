@@ -5,7 +5,7 @@ import { DOCTOR_DETAILS } from "../data";
 export default function Footer() {
   const quickLinks = [
     { label: "Home", href: "#home" },
-    { label: "About Dr. Sharjeel", href: "#about" },
+    { label: "About Dr. Vance", href: "#about" },
     { label: "Our Services", href: "#services" },
     { label: "Why Choose Us", href: "#why-choose-us" },
     { label: "Timings & Route", href: "#timings-location" },
@@ -55,7 +55,7 @@ export default function Footer() {
             </a>
             
             <p className="text-xs sm:text-sm text-slate-400 leading-relaxed max-w-sm">
-              Providing professional cardiovascular cardiology assessments and comprehensive family medicine clinical guidelines under Dr. Muhammad Sharjeel Farkh, MD, FACC.
+              Providing professional cardiovascular cardiology assessments and comprehensive family medicine clinical guidelines under Dr. Evelyn Vance, MD, FACC.
             </p>
 
             <div className="text-xs space-y-2 pt-2">

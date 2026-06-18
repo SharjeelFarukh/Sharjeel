@@ -41,7 +41,7 @@ export default function Services() {
           </h2>
           <div className="mx-auto w-16 h-1 bg-gradient-to-r from-teal-500 to-cyan-500 rounded-full"></div>
           <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
-            From routine checkups to state-of-the-art diagnostic cardio evaluations, Dr. Sharjeel offers evidence-based diagnostic blueprints tailored to protect your long-term health.
+            From routine checkups to state-of-the-art diagnostic cardio evaluations, Dr. Vance offers evidence-based diagnostic blueprints tailored to protect your long-term health.
           </p>
         </div>
 
